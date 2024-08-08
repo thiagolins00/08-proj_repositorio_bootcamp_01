@@ -1,1 +1,1 @@
-print("Hello World Thiago Lins")
+print("Olá, " + input("Digite seu nome: ")+ "!")
